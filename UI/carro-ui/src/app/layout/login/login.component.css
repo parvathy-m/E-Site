@@ -1,0 +1,42 @@
+.parent
+{
+  width: 100%;
+  height: 100vh;
+  /* outline: dashed 1px black; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.child
+{
+  width: 800px;
+  height: auto;
+  /* background-color: red; */
+}
+
+.c-card
+{
+  padding: 0px;
+}
+
+.card-body
+{
+  padding: 0px;
+}
+
+.lr
+{
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.lt
+{
+  padding: 0px !important;
+}
+
+form
+{
+  padding: 10px 20px 10px 20px;
+}
